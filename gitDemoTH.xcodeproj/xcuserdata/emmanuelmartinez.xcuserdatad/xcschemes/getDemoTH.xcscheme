@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "866D333F1D0A53D30035C38E"
-               BuildableName = "getDemoTH.app"
-               BlueprintName = "getDemoTH"
-               ReferencedContainer = "container:getDemoTH.xcodeproj">
+               BuildableName = "gitDemoTH.app"
+               BlueprintName = "gitDemoTH"
+               ReferencedContainer = "container:gitDemoTH.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "866D333F1D0A53D30035C38E"
-            BuildableName = "getDemoTH.app"
-            BlueprintName = "getDemoTH"
-            ReferencedContainer = "container:getDemoTH.xcodeproj">
+            BuildableName = "gitDemoTH.app"
+            BlueprintName = "gitDemoTH"
+            ReferencedContainer = "container:gitDemoTH.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "866D333F1D0A53D30035C38E"
-            BuildableName = "getDemoTH.app"
-            BlueprintName = "getDemoTH"
-            ReferencedContainer = "container:getDemoTH.xcodeproj">
+            BuildableName = "gitDemoTH.app"
+            BlueprintName = "gitDemoTH"
+            ReferencedContainer = "container:gitDemoTH.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "866D333F1D0A53D30035C38E"
-            BuildableName = "getDemoTH.app"
-            BlueprintName = "getDemoTH"
-            ReferencedContainer = "container:getDemoTH.xcodeproj">
+            BuildableName = "gitDemoTH.app"
+            BlueprintName = "gitDemoTH"
+            ReferencedContainer = "container:gitDemoTH.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

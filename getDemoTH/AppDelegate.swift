@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  getDemoTH
+//  gitDemoTH
 //
 //  Created by Emmanuel  Martinez on 6/9/16.
 //  Copyright © 2016 Emmanuel  Martinez. All rights reserved.

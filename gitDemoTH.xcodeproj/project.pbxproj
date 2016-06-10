@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		866D33401D0A53D30035C38E /* getDemoTH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = getDemoTH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		866D33401D0A53D30035C38E /* gitDemoTH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitDemoTH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		866D33431D0A53D30035C38E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		866D33451D0A53D30035C38E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		866D33481D0A53D30035C38E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		866D33371D0A53D30035C38E = {
 			isa = PBXGroup;
 			children = (
-				866D33421D0A53D30035C38E /* getDemoTH */,
+				866D33421D0A53D30035C38E /* gitDemoTH */,
 				866D33411D0A53D30035C38E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		866D33411D0A53D30035C38E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				866D33401D0A53D30035C38E /* getDemoTH.app */,
+				866D33401D0A53D30035C38E /* gitDemoTH.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		866D33421D0A53D30035C38E /* getDemoTH */ = {
+		866D33421D0A53D30035C38E /* gitDemoTH */ = {
 			isa = PBXGroup;
 			children = (
 				866D33431D0A53D30035C38E /* AppDelegate.swift */,
@@ -61,15 +61,16 @@
 				866D334C1D0A53D30035C38E /* LaunchScreen.storyboard */,
 				866D334F1D0A53D30035C38E /* Info.plist */,
 			);
+			name = gitDemoTH;
 			path = getDemoTH;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		866D333F1D0A53D30035C38E /* getDemoTH */ = {
+		866D333F1D0A53D30035C38E /* gitDemoTH */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 866D33521D0A53D30035C38E /* Build configuration list for PBXNativeTarget "getDemoTH" */;
+			buildConfigurationList = 866D33521D0A53D30035C38E /* Build configuration list for PBXNativeTarget "gitDemoTH" */;
 			buildPhases = (
 				866D333C1D0A53D30035C38E /* Sources */,
 				866D333D1D0A53D30035C38E /* Frameworks */,
@@ -79,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = getDemoTH;
+			name = gitDemoTH;
 			productName = getDemoTH;
-			productReference = 866D33401D0A53D30035C38E /* getDemoTH.app */;
+			productReference = 866D33401D0A53D30035C38E /* gitDemoTH.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 866D333B1D0A53D30035C38E /* Build configuration list for PBXProject "getDemoTH" */;
+			buildConfigurationList = 866D333B1D0A53D30035C38E /* Build configuration list for PBXProject "gitDemoTH" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -112,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				866D333F1D0A53D30035C38E /* getDemoTH */,
+				866D333F1D0A53D30035C38E /* gitDemoTH */,
 			);
 		};
 /* End PBXProject section */
@@ -249,10 +250,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = getDemoTH/Info.plist;
+				INFOPLIST_FILE = gitDemoTH/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.caveman.getDemoTH;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.caveman.gitDemoTH;
+				PRODUCT_NAME = gitDemoTH;
 			};
 			name = Debug;
 		};
@@ -260,17 +261,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = getDemoTH/Info.plist;
+				INFOPLIST_FILE = gitDemoTH/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.caveman.getDemoTH;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.caveman.gitDemoTH;
+				PRODUCT_NAME = gitDemoTH;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		866D333B1D0A53D30035C38E /* Build configuration list for PBXProject "getDemoTH" */ = {
+		866D333B1D0A53D30035C38E /* Build configuration list for PBXProject "gitDemoTH" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				866D33501D0A53D30035C38E /* Debug */,
@@ -279,7 +280,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		866D33521D0A53D30035C38E /* Build configuration list for PBXNativeTarget "getDemoTH" */ = {
+		866D33521D0A53D30035C38E /* Build configuration list for PBXNativeTarget "gitDemoTH" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				866D33531D0A53D30035C38E /* Debug */,
